@@ -17,14 +17,16 @@ Meet MealPrep Me! This website helps users in planning out their weekly meals, s
 
 Users can create, delete, and view recipes. Recipes include a title, a list of ingredients, and optional photos, descriptions, or links.
 
-![Recipe page](recipe.png)
+![Recipe page](images/recipes.png)
+![New recipe](images/new-recipe.png)
+![View recipe](images/recipe-card.png)
 
 
 ### Feature 2: Meal Planning
 
-Plan each day's meals ahead of time and link to relevant saved recipes!
+Plan each day's meals ahead of time by selecting your meal from the dropdown menu! Save your week each time you make any changes, or reset it completely for a fresh start.
 
-![Grocery List](meal-plan.png)
+![Meal Planner](meal-plan.png)
 
 
 ### Feature 3: Grocery List
@@ -51,3 +53,12 @@ This structure enhances maintainability, supports isolated feature testing, and 
 
 ## Project Management
 We used Figma ([mockup here](https://www.figma.com/design/34kaSJM9V8IHBJAV7wohMd/Comp426?node-id=2-287&t=I6Vzqogk3gwSAYMj-1)) to create interactive wireframes for our feature before developing and Github project boards to keep track of tickets' status. We followed Google’s code review guidelines as well as their limit on AI contributions to code (we estimate under 10% of our project includes AI generated code).
+
+## Built Using
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![Shadcn/ui](https://img.shields.io/badge/-Shadcn_UI-05122A?style=flat&logo=shadcnui)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
