@@ -13,27 +13,27 @@ Meet MealPrep Me! This website helps users in planning out their weekly meals, s
 
 ## Current Features
 
-### Feature 1: Recipe Cards
+### Recipe Cards
 
-Users can create, delete, and view recipes. Recipes include a title, a list of ingredients, and optional photos, descriptions, or links.
+Users can create, delete, and view their saved recipes. Recipes include a title, a list of ingredients, and optional photos, description, instructions or links.
 
 ![Recipe page](images/recipes.png)
 ![New recipe](images/new-recipe.png)
 ![View recipe](images/recipe-card.png)
 
 
-### Feature 2: Meal Planning
+### Meal Planning
 
 Plan each day's meals ahead of time by selecting your meal from the dropdown menu! Save your week each time you make any changes, or reset it completely for a fresh start.
 
-![Meal Planner](meal-plan.png)
+![Meal planner](images/planner.png)
 
 
-### Feature 3: Grocery List
+### Grocery List
 
 Users can add, remove, and check off items on their grocery lists.
 
-![Grocery List](shopping-list.png)
+![Grocery List](images/groceries.png)
 
 
 
